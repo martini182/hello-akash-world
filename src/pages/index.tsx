@@ -107,12 +107,12 @@ const IndexPage: React.FunctionComponent<Props> = () => {
                 </a>
               </Grid>
               <Grid item xs={6} sm={3}>
-                <a href="https://youtube.com/@AkashNetwork?si=cd2P3ZlAa4gNQw0X?sub_confirmation=1" target="_blank" className={classes.socialLink}>
+                <a href="https://youtube.com/@AkashNetwork?si=cd2P3ZlAa4gNQw0X&sub_confirmation=1" target="_blank" className={classes.socialLink}>
                   <YouTubeIcon className={classes.socialIcon} />
                 </a>
               </Grid>
               <Grid item xs={6} sm={3}>
-                <a href="https://x.com/akashnet_" target="_blank" className={classes.socialLink}>
+                <a href="https://x.com/akashnet" target="_blank" className={classes.socialLink}>
                   <XIcon className={classes.socialIcon} />
                 </a>
               </Grid>
